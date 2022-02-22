@@ -9,5 +9,8 @@ mainMnistNormalNoise.py            : This file contains the main function for:
                                         2) training the learning model located in the file Net.py
 
 Net.py                             : This file contains the designed learning model
-TransformNormalDistribution.py     : This file contains the transform for adding the Normal noise to the original dataset before starting the training
+TransformNormalDistribution.py     : This file contains the transform for adding the Normal noise to the original dataset before starting the training.
+
+# If you have used our code in your research, Please include our paper in your references: 
+A. El Ouadrhiri and A. Abdelhadi, "Differential Privacy for Deep and Federated Learning: A Survey," in IEEE Access, doi: 10.1109/ACCESS.2022.3151670.
 
